@@ -1,0 +1,9 @@
+.folder-btn {
+  font-weight: bold;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.folder-btn:hover {
+  color: #0056b3;
+}
